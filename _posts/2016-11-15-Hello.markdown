@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Hello and Back in business"
+date:   2016-11-15 11:32:00
+categories: personal announcement
+---
+Ok after some time of having free hosting at Digital Ocean mixing my previous blog at Medium redirecting with DNS.
+
+I decided to go all free as in beer with Github Pages, destroyed my Ubuntu droplet and started moving the DNS over.
+
+The most tricky part was the custom name redirection with Github Pages, I had to use a third party solution at Cloudflare.
+
+So after a few hours I'm back, and also decided to place my CV as my landing page.
+
+Cheers!
