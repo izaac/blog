@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Navegando links de tabla con Scrapy"
-date:   2016-11-15 11:32:00
+date:   2016-11-21 23:16:00
 categories: programming python scrapy spanish
 ---
 Mientras investigaba alguna manera rapida de parsear links de una tabla y navegar hacia ellos
