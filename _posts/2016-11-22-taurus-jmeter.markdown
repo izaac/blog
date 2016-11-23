@@ -126,6 +126,8 @@ reporting:
 
 {% endhighlight %}
 
+![Sample report sent to BlazeMeter](/blog/assets/images/blaze_report.png)
+
 As you can see it's super easy and it's just matter of using the bzt executable Taurus provides to execute the test.
 
 I hope you find it useful and help you get you started with performance test tools. 
