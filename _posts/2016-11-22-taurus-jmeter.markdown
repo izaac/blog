@@ -3,6 +3,7 @@ layout: post
 title:  "Creating a performance test with Ruby or Taurus for BlazeMeter"
 date:   2016-11-22 22:00:00
 categories: qa ruby jmeter performance taurus blazemeter
+comments: true
 ---
 Ok, so I've been so involved lately in designing performance tests reports for detecting potential performance or bottleneck issues
  in web applications that I've spent a lot of time evaluating different tools, some are great other have a lot potential as they are 
