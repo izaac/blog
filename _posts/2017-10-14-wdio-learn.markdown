@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Personal starter repository that use basic WebdriverIO configurations"
-date:   2017-07-13 22:10:00
+title:  "Personal starter repository for WebdriverIO configurations"
+date:   2017-10-14 12:48:00
 categories: career javascript nodejs selenium webdriverio
 ---
 I've been using a lot this [WebdriverIO](http://webdriver.io) library to design functional end to end and regression tests
